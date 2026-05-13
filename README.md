@@ -45,7 +45,7 @@ Sou um desenvolvedor **Back-End** focado em sistemas escaláveis, integração d
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eduardosouuza&color=6A9FFF&style=flat-square&label=Visitantes+do+perfil" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=EduardoLopes027&color=6A9FFF&style=flat-square&label=Visitantes+do+perfil" alt="Profile views"/>
 </p>
 
 <p align="center">⭐ Obrigado por visitar meu perfil! ⭐</p>
